@@ -1,0 +1,16 @@
+@tailwind base;
+
+@font-face {
+    font-family: WorkSans;
+    font-weight: 400;
+    src: url(/src/fonts/WorkSans-Regular.ttf) format("woff");
+  }
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+body {
+    font-family: WorkSans;
+}
