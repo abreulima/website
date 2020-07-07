@@ -596,7 +596,7 @@ video {
 
   font-weight: 400;
 
-  src: url(/src/fonts/WorkSans-Regular.ttf) format("woff");
+  src: url(https://github.com/abreulima/website/blob/master/src/fonts/WorkSans-Regular.ttf) format("woff");
 }
 
 .container {
